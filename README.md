@@ -70,13 +70,13 @@ You are a data analyst who has been provided with sample data to work on the fol
 - Credit card, with a 40.6% share in overall average monthly spending, is the most popular payment mode, followed by UPI with a 26.5% share and Debit card with a 22.5% share.
 - Salaried IT employees have the highest overall average monthly spending of 39.4 Million ₹, followed by Business owners with 14.2 Million ₹, and Freelancers with 12.2 Million ₹.
 - Overall Income Utilization % is higher in male customers with 43.2% compared to female customers with 38.5%.
-- The 35-45 age group has the highest Overall Income Utilization % at 45.3%, followed by the 25-34 age group with 42.3%, and the 21-24 age group with 39.4%. However, the Overall average monthly spending is highest in the 25-34 age group due to a higher number of people in this dataset.
+- The 35-45 age group has the highest Overall Income Utilization % at 45.3%, followed by the 25-34 age group with 42.3%, and the 21-24 age group with 39.4%. However, the Overall average monthly spending is highest in the 25-34 age group due to a higher number of people from this group in this dataset.
 - Overall monthly spending, Income Utilization %, and Credit card spending are higher in August and September compared to the rest of the months.
 - From May to October, the overall average monthly spending on the Bills category is the highest, followed by the Groceries and Electronics categories.
 - Overall average monthly credit card spending is higher in Bills, Electronics, and Health and wellness categories.
 - Overall average monthly credit card spending is highest in the 25-34 age group with 15.3 Million ₹, followed by the 35-45 age group with 11.9 Million ₹.
 - Overall monthly spending is higher for male customers at 67.3% compared to female customers at 32.7%.
-- Overall monthly spending is higher for married customers, accounting for around 80%, compared to female customers with 20%.
+- Overall monthly spending is higher for married customers, accounting for around 80%, compared to single customers with 20%.
 - Spending patterns in various categories and through different payment types differ based on age group, gender, and marital status.
 - ► For the 25-34 age group,
 - males, whether single or married, have the top three monthly spending categories: Bills, Groceries, and Electronics.
@@ -86,3 +86,22 @@ You are a data analyst who has been provided with sample data to work on the fol
 - Females, whether single or married, have the top three monthly spending categories: Health and wellness, Bills, and Groceries.
  
 ## Potential Decisions
+1. **Tailored Credit Card Offers:** Develop customized credit card offers for the 25-34 age group, focusing on their top spending categories such as Bills, Groceries, and Electronics. This can attract a younger demographic and encourage higher credit card usage.
+
+2. **Marketing Campaigns for August and September:** Leverage the higher spending patterns observed in August and September by launching targeted marketing campaigns during these months. Promotions, discounts, or rewards during this period can further boost credit card usage and attract new customers.
+
+3. **Diversify Credit Card Features:** Introduce credit card features and rewards that align with the spending preferences of different age groups and genders. For example, offer travel-related perks for females in the 25-34 age group who prioritize Travel as a spending category.
+
+4. **Special Credit Card for Salaried IT Employees:** Create a specialized credit card with exclusive benefits for salaried IT employees, who exhibit the highest overall average monthly spending. Tailor rewards, cashback, or loyalty programs to cater to their specific needs and preferences.
+
+5. **Promote Family-oriented Credit Card Features:** Capitalize on the higher spending observed in the 35-45 age group, especially for health and wellness. Introduce family-oriented credit card features, such as health insurance or wellness-related rewards, to appeal to this demographic.
+
+6. **Targeted Marketing for Electronics Category:** Since Electronics is a prominent spending category, develop targeted marketing campaigns around the purchase of electronic goods. Offer discounts, extended warranties, or exclusive deals for credit card users in this category.
+
+7. **Expand Credit Card Acceptance:** Work on expanding the acceptance of the bank's credit cards at more merchants and outlets. A wider acceptance network can encourage existing customers to use their credit cards more frequently and attract new users.
+
+8. **Educational Campaigns on Credit Card Benefits:** Launch educational campaigns to inform customers about the benefits and advantages of using credit cards, particularly focusing on the advantages in Bills, Groceries, and Electronics categories. This can dispel misconceptions and encourage more customers to adopt credit card usage.
+
+9. **Market Research on Emerging Spending Categories:** Stay updated on emerging spending trends and adjust credit card offerings accordingly. Conduct regular market research to identify new categories gaining popularity, and introduce credit card features that align with these evolving consumer preferences.
+
+10. **Enhance Credit Card Visibility in Digital Channels:** Recognizing the growing popularity of digital transactions, prioritize the online promotion and visibility of the new line of credit cards. Collaborate with popular digital platforms, optimize the bank's website for easy credit card exploration, and run targeted online marketing campaigns to create awareness and attract potential customers to the new credit card offerings.
