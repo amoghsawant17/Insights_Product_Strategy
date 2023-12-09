@@ -73,7 +73,7 @@ You are a data analyst who has been provided with sample data to work on the fol
 - The 35-45 age group has the highest Overall Income Utilization % at 45.3%, followed by the 25-34 age group with 42.3%, and the 21-24 age group with 39.4%. However, the Overall average monthly spending is highest in the 25-34 age group due to a higher number of people from this group in this dataset.
 - Overall monthly spending, Income Utilization %, and Credit card spending are higher in August and September compared to the rest of the months.
 - From May to October, the overall average monthly spending on the Bills category is the highest, followed by the Groceries and Electronics categories.
-- Overall average monthly credit card spending is higher in Bills, Electronics, and Health and wellness categories.
+- Overall average monthly credit card spending is highest in Bills, followed by Electronics, and Health and wellness categories.
 - Overall average monthly credit card spending is highest in the 25-34 age group with 15.3 Million ₹, followed by the 35-45 age group with 11.9 Million ₹.
 - Overall monthly spending is higher for male customers at 67.3% compared to female customers at 32.7%.
 - Overall monthly spending is higher for married customers, accounting for around 80%, compared to single customers with 20%.
