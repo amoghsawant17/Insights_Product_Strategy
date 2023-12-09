@@ -64,5 +64,25 @@ You are a data analyst who has been provided with sample data to work on the fol
 ## Some Key Metrics
 
 ## Some Important insights from the Dashboard
+- Mumbai ranks top among cities in terms of overall average monthly spending of 27.8 Million ₹, while Hyderabad has the lowest average monthly spending of 10.9 Million ₹.
+- Overall Income Utilization % is highest in Mumbai with 49.9% and lowest in Chennai with 30.2%.
+- Overall Credit card spending is highest in Mumbai with 11.2 Million ₹ and lowest in Hyderabad with 4.4 Million ₹.
+- Credit card, with a 40.6% share in overall average monthly spending, is the most popular payment mode, followed by UPI with a 26.5% share and Debit card with a 22.5% share.
+- Salaried IT employees have the highest overall average monthly spending of 39.4 Million ₹, followed by Business owners with 14.2 Million ₹, and Freelancers with 12.2 Million ₹.
+- Overall Income Utilization % is higher in male customers with 43.2% compared to female customers with 38.5%.
+- The 35-45 age group has the highest Overall Income Utilization % at 45.3%, followed by the 25-34 age group with 42.3%, and the 21-24 age group with 39.4%. However, the Overall average monthly spending is highest in the 25-34 age group due to a higher number of people in this dataset.
+- Overall monthly spending, Income Utilization %, and Credit card spending are higher in August and September compared to the rest of the months.
+- From May to October, the overall average monthly spending on the Bills category is the highest, followed by the Groceries and Electronics categories.
+- Overall average monthly credit card spending is higher in Bills, Electronics, and Health and wellness categories.
+- Overall average monthly credit card spending is highest in the 25-34 age group with 15.3 Million ₹, followed by the 35-45 age group with 11.9 Million ₹.
+- Overall monthly spending is higher for male customers at 67.3% compared to female customers at 32.7%.
+- Overall monthly spending is higher for married customers, accounting for around 80%, compared to female customers with 20%.
+- Spending patterns in various categories and through different payment types differ based on age group, gender, and marital status.
+- ► For the 25-34 age group,
+- males, whether single or married, have the top three monthly spending categories: Bills, Groceries, and Electronics.
+- Females, whether single or married, have the top three monthly spending categories: Bills, Travel, and Health & Wellness.
+- ► For the 35-45 age group,
+- males, whether single or married, have the top three monthly spending categories: Bills, Groceries, and Electronics.
+- Females, whether single or married, have the top three monthly spending categories: Health and wellness, Bills, and Groceries.
  
 ## Potential Decisions
