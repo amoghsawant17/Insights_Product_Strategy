@@ -24,7 +24,7 @@ You are a data analyst who has been provided with sample data to work on the fol
 ## Data Model
 
 <p align="center">
-    <img src='' height="400">
+    <img src='https://github.com/amoghsawant17/Insights_Product_Strategy/blob/main/view_snaps/data_model.png' height="400">
 </p>
 
 ## Overview
