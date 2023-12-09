@@ -1,6 +1,6 @@
 # Insights Product Strategy - Power BI
 In this Data Analysis project, I have studied a dataset related to the banking domain for product strategy. Mitron Bank is one of the prominent financial institutions in the industry. I have analyzed their customer's spending patterns, income levels, and spending by payment types as per their demographies, gender, marital status, and occupations. And, I created a Power BI dashboard for Data Visualization.
-This project is a part of [Codebasics](https://codebasics.io/challenge/codebasics-resume-project-challenge) Resume Project challenge #8: Provide Insights to the Product Strategy Team in the Banking Domain
+- This project is a part of [Codebasics](https://codebasics.io/challenge/codebasics-resume-project-challenge) Resume Project challenge #8: Provide Insights to the Product Strategy Team in the Banking Domain
 
 - Link to [Portfolio Website](https://codebasics.io/portfolio/Amogh-Sawant)
 - Link to [Live Dashboard]()
