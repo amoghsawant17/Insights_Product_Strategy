@@ -1,5 +1,5 @@
 # Insights for New Product Launch Strategy - Power BI
-In this Data Analysis project, I have studied a dataset related to the banking domain for new product launch strategy. Mitron Bank is one of the prominent financial institutions in the industry. I have analyzed their customers' spending patterns, income levels, and spending by payment types as per their demographies, gender, marital status, and occupations. And, I created a Power BI dashboard for Data Visualization.
+In this Data Analysis project, I have studied a dataset related to the banking domain for a new product launch strategy. Mitron Bank is one of the prominent financial institutions in the industry. I have analyzed their customers' spending patterns, income levels, and spending by payment types as per their demographies, gender, marital status, and occupations. And, I created a Power BI dashboard for Data Visualization.
 - This project is a part of [Codebasics](https://codebasics.io/challenge/codebasics-resume-project-challenge) Resume Project challenge #8: Provide Insights to the Product Strategy Team in the Banking Domain
 
 - Link to [Portfolio Website](https://codebasics.io/portfolio/Amogh-Sawant)
@@ -30,31 +30,31 @@ You are a data analyst who has been provided with sample data to work on the fol
 ## Overview
 
 <p align="center">
-    <img src='' width="600">
+    <img src='https://github.com/amoghsawant17/Insights_Product_Strategy/blob/main/view_snaps/snap_overview.png' width="600">
 </p>
 
 ## Monthly Analysis View
 
 <p align="center">
-    <img src='' width="600">
+    <img src='https://github.com/amoghsawant17/Insights_Product_Strategy/blob/main/view_snaps/snap_ma.png' width="600">
 </p>
 
 ## Support View
 
 <p align="center">
-    <img src='' width="600">
+    <img src='https://github.com/amoghsawant17/Insights_Product_Strategy/blob/main/view_snaps/snap_support.png' width="600">
 </p>
 
 ## Feedback View
 
 <p align="center">
-    <img src='' width="600">
+    <img src='https://github.com/amoghsawant17/Insights_Product_Strategy/blob/main/view_snaps/snap_fb.png' width="600">
 </p>
 
 ## Attribution View
 
 <p align="center">
-    <img src='' width="600">
+    <img src='https://github.com/amoghsawant17/Insights_Product_Strategy/blob/main/view_snaps/snap_at.png' width="600">
 </p>
 
 ## Learnt things from this Project 
