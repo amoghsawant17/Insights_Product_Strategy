@@ -3,7 +3,7 @@ In this Data Analysis project, I have studied a dataset related to the banking d
 - This project is a part of [Codebasics](https://codebasics.io/challenge/codebasics-resume-project-challenge) Resume Project challenge #8: Provide Insights to the Product Strategy Team in the Banking Domain
 
 - Link to [Portfolio Website](https://codebasics.io/portfolio/Amogh-Sawant)
-- Link to [Live Dashboard]()
+- Link to [Live Dashboard](https://www.novypro.com/project/insights-for-new-product-launch-strategy)
 
 ## Problem statement
 
